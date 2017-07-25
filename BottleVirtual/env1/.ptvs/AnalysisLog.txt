@@ -1,0 +1,1306 @@
+﻿
+2017-07-24T19:52:43: Start analysis
+2017-07-24T19:52:43: [WARNING] Library was set explicitly - skipping path detection
+2017-07-24T19:52:43: IncludeModulesFromModulePath = win32com
+2017-07-24T19:52:43: Deleting 0 files
+2017-07-24T19:52:43: Scraping builtin modules
+2017-07-24T19:52:43: Command: D:\Projects\testAzure\BottleVirtual\env1\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" D:\Projects\testAzure\BottleVirtual\env1\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-07-24T19:52:46: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\__builtin__.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_subprocess.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_winreg.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cPickle.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cStringIO.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\datetime.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\exceptions.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\future_builtins.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\imp.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\operator.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\thread.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-07-24T19:52:46: Scraped builtin modules
+2017-07-24T19:52:46: astropy.CallDepth = 0
+2017-07-24T19:52:46: matplotlib.CallDepth = 3
+2017-07-24T19:52:46: pandas.CallDepth = 0
+2017-07-24T19:52:46: sympy.CallDepth = 0
+2017-07-24T19:52:46: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib" with 143 files
+2017-07-24T19:52:48: Parsing "abc" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\abc.py")
+2017-07-24T19:52:48: Parsing "codecs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\codecs.py")
+2017-07-24T19:52:48: Parsing "copy_reg" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\copy_reg.py")
+2017-07-24T19:52:48: Parsing "fnmatch" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\fnmatch.py")
+2017-07-24T19:52:48: Parsing "genericpath" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\genericpath.py")
+2017-07-24T19:52:48: Parsing "linecache" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\linecache.py")
+2017-07-24T19:52:48: Parsing "locale" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\locale.py")
+2017-07-24T19:52:48: Parsing "ntpath" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\ntpath.py")
+2017-07-24T19:52:48: Parsing "os" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\os.py")
+2017-07-24T19:52:48: Parsing "posixpath" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\posixpath.py")
+2017-07-24T19:52:48: Parsing "re" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\re.py")
+2017-07-24T19:52:48: Parsing "site" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site.py")
+2017-07-24T19:52:48: Parsing "sre" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\sre.py")
+2017-07-24T19:52:48: Parsing "sre_compile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\sre_compile.py")
+2017-07-24T19:52:48: Parsing "sre_constants" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\sre_constants.py")
+2017-07-24T19:52:48: Parsing "sre_parse" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\sre_parse.py")
+2017-07-24T19:52:48: Parsing "stat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\stat.py")
+2017-07-24T19:52:48: Parsing "types" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\types.py")
+2017-07-24T19:52:48: Parsing "UserDict" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\UserDict.py")
+2017-07-24T19:52:48: Parsing "warnings" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\warnings.py")
+2017-07-24T19:52:48: Parsing "_abcoll" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\_abcoll.py")
+2017-07-24T19:52:48: Parsing "_weakrefset" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\_weakrefset.py")
+2017-07-24T19:52:48: Parsing "distutils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\distutils\__init__.py")
+2017-07-24T19:52:48: Parsing "encodings.aliases" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\aliases.py")
+2017-07-24T19:52:48: Parsing "encodings.ascii" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\ascii.py")
+2017-07-24T19:52:48: Parsing "encodings.base64_codec" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\base64_codec.py")
+2017-07-24T19:52:48: Parsing "encodings.big5" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\big5.py")
+2017-07-24T19:52:48: Parsing "encodings.big5hkscs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\big5hkscs.py")
+2017-07-24T19:52:48: Parsing "encodings.bz2_codec" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\bz2_codec.py")
+2017-07-24T19:52:48: Parsing "encodings.charmap" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\charmap.py")
+2017-07-24T19:52:48: Parsing "encodings.cp037" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp037.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1006" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1006.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1026" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1026.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1140" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1140.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1250" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1250.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1251" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1251.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1252" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1252.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1253" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1253.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1254" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1254.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1255" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1255.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1256" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1256.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1257" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1257.py")
+2017-07-24T19:52:48: Parsing "encodings.cp1258" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp1258.py")
+2017-07-24T19:52:48: Parsing "encodings.cp424" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp424.py")
+2017-07-24T19:52:48: Parsing "encodings.cp437" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp437.py")
+2017-07-24T19:52:48: Parsing "encodings.cp500" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp500.py")
+2017-07-24T19:52:48: Parsing "encodings.cp720" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp720.py")
+2017-07-24T19:52:48: Parsing "encodings.cp737" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp737.py")
+2017-07-24T19:52:48: Parsing "encodings.cp775" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp775.py")
+2017-07-24T19:52:48: Parsing "encodings.cp850" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp850.py")
+2017-07-24T19:52:48: Parsing "encodings.cp852" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp852.py")
+2017-07-24T19:52:48: Parsing "encodings.cp855" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp855.py")
+2017-07-24T19:52:48: Parsing "encodings.cp856" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp856.py")
+2017-07-24T19:52:48: Parsing "encodings.cp857" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp857.py")
+2017-07-24T19:52:48: Parsing "encodings.cp858" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp858.py")
+2017-07-24T19:52:48: Parsing "encodings.cp860" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp860.py")
+2017-07-24T19:52:48: Parsing "encodings.cp861" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp861.py")
+2017-07-24T19:52:48: Parsing "encodings.cp862" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp862.py")
+2017-07-24T19:52:48: Parsing "encodings.cp863" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp863.py")
+2017-07-24T19:52:48: Parsing "encodings.cp864" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp864.py")
+2017-07-24T19:52:48: Parsing "encodings.cp865" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp865.py")
+2017-07-24T19:52:48: Parsing "encodings.cp866" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp866.py")
+2017-07-24T19:52:48: Parsing "encodings.cp869" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp869.py")
+2017-07-24T19:52:48: Parsing "encodings.cp874" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp874.py")
+2017-07-24T19:52:48: Parsing "encodings.cp875" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp875.py")
+2017-07-24T19:52:48: Parsing "encodings.cp932" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp932.py")
+2017-07-24T19:52:48: Parsing "encodings.cp949" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp949.py")
+2017-07-24T19:52:48: Parsing "encodings.cp950" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\cp950.py")
+2017-07-24T19:52:48: Parsing "encodings.euc_jisx0213" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\euc_jisx0213.py")
+2017-07-24T19:52:48: Parsing "encodings.euc_jis_2004" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\euc_jis_2004.py")
+2017-07-24T19:52:48: Parsing "encodings.euc_jp" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\euc_jp.py")
+2017-07-24T19:52:48: Parsing "encodings.euc_kr" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\euc_kr.py")
+2017-07-24T19:52:48: Parsing "encodings.gb18030" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\gb18030.py")
+2017-07-24T19:52:48: Parsing "encodings.gb2312" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\gb2312.py")
+2017-07-24T19:52:48: Parsing "encodings.gbk" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\gbk.py")
+2017-07-24T19:52:48: Parsing "encodings.hex_codec" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\hex_codec.py")
+2017-07-24T19:52:48: Parsing "encodings.hp_roman8" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\hp_roman8.py")
+2017-07-24T19:52:48: Parsing "encodings.hz" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\hz.py")
+2017-07-24T19:52:48: Parsing "encodings.idna" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\idna.py")
+2017-07-24T19:52:48: Parsing "encodings.iso2022_jp" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso2022_jp.py")
+2017-07-24T19:52:48: Parsing "encodings.iso2022_jp_1" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso2022_jp_1.py")
+2017-07-24T19:52:48: Parsing "encodings.iso2022_jp_2" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso2022_jp_2.py")
+2017-07-24T19:52:48: Parsing "encodings.iso2022_jp_2004" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso2022_jp_2004.py")
+2017-07-24T19:52:48: Parsing "encodings.iso2022_jp_3" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso2022_jp_3.py")
+2017-07-24T19:52:48: Parsing "encodings.iso2022_jp_ext" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso2022_jp_ext.py")
+2017-07-24T19:52:48: Parsing "encodings.iso2022_kr" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso2022_kr.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_1" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_1.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_10" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_10.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_11" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_11.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_13" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_13.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_14" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_14.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_15" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_15.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_16" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_16.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_2" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_2.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_3" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_3.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_4" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_4.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_5" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_5.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_6" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_6.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_7" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_7.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_8" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_8.py")
+2017-07-24T19:52:48: Parsing "encodings.iso8859_9" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\iso8859_9.py")
+2017-07-24T19:52:48: Parsing "encodings.johab" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\johab.py")
+2017-07-24T19:52:48: Parsing "encodings.koi8_r" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\koi8_r.py")
+2017-07-24T19:52:48: Parsing "encodings.koi8_u" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\koi8_u.py")
+2017-07-24T19:52:48: Parsing "encodings.latin_1" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\latin_1.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_arabic" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_arabic.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_centeuro" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_centeuro.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_croatian" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_croatian.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_cyrillic" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_cyrillic.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_farsi" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_farsi.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_greek" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_greek.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_iceland" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_iceland.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_latin2" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_latin2.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_roman" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_roman.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_romanian" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_romanian.py")
+2017-07-24T19:52:48: Parsing "encodings.mac_turkish" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mac_turkish.py")
+2017-07-24T19:52:48: Parsing "encodings.mbcs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\mbcs.py")
+2017-07-24T19:52:48: Parsing "encodings.palmos" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\palmos.py")
+2017-07-24T19:52:48: Parsing "encodings.ptcp154" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\ptcp154.py")
+2017-07-24T19:52:48: Parsing "encodings.punycode" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\punycode.py")
+2017-07-24T19:52:48: Parsing "encodings.quopri_codec" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\quopri_codec.py")
+2017-07-24T19:52:48: Parsing "encodings.raw_unicode_escape" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\raw_unicode_escape.py")
+2017-07-24T19:52:48: Parsing "encodings.rot_13" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\rot_13.py")
+2017-07-24T19:52:48: Parsing "encodings.shift_jis" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\shift_jis.py")
+2017-07-24T19:52:48: Parsing "encodings.shift_jisx0213" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\shift_jisx0213.py")
+2017-07-24T19:52:48: Parsing "encodings.shift_jis_2004" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\shift_jis_2004.py")
+2017-07-24T19:52:48: Parsing "encodings.string_escape" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\string_escape.py")
+2017-07-24T19:52:48: Parsing "encodings.tis_620" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\tis_620.py")
+2017-07-24T19:52:48: Parsing "encodings.undefined" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\undefined.py")
+2017-07-24T19:52:48: Parsing "encodings.unicode_escape" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\unicode_escape.py")
+2017-07-24T19:52:48: Parsing "encodings.unicode_internal" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\unicode_internal.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_16" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_16.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_16_be" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_16_be.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_16_le" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_16_le.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_32" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_32.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_32_be" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_32_be.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_32_le" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_32_le.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_7" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_7.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_8" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_8.py")
+2017-07-24T19:52:48: Parsing "encodings.utf_8_sig" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\utf_8_sig.py")
+2017-07-24T19:52:48: Parsing "encodings.uu_codec" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\uu_codec.py")
+2017-07-24T19:52:48: Parsing "encodings.zlib_codec" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\zlib_codec.py")
+2017-07-24T19:52:48: Parsing "encodings" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\encodings\__init__.py")
+2017-07-24T19:52:48: Parsing complete
+2017-07-24T19:52:48: Analyzing "abc"
+2017-07-24T19:52:48: Analyzing "codecs"
+2017-07-24T19:52:48: Analyzing "copy_reg"
+2017-07-24T19:52:48: Analyzing "fnmatch"
+2017-07-24T19:52:48: Analyzing "genericpath"
+2017-07-24T19:52:48: Analyzing "linecache"
+2017-07-24T19:52:48: Analyzing "locale"
+2017-07-24T19:52:48: Analyzing "ntpath"
+2017-07-24T19:52:48: Analyzing "os"
+2017-07-24T19:52:48: Analyzing "posixpath"
+2017-07-24T19:52:48: Analyzing "re"
+2017-07-24T19:52:48: Analyzing "site"
+2017-07-24T19:52:48: Analyzing "sre"
+2017-07-24T19:52:48: Analyzing "sre_compile"
+2017-07-24T19:52:48: Analyzing "sre_constants"
+2017-07-24T19:52:48: Analyzing "sre_parse"
+2017-07-24T19:52:48: Analyzing "stat"
+2017-07-24T19:52:48: Analyzing "types"
+2017-07-24T19:52:48: Analyzing "UserDict"
+2017-07-24T19:52:48: Analyzing "warnings"
+2017-07-24T19:52:48: Analyzing "_abcoll"
+2017-07-24T19:52:48: Analyzing "_weakrefset"
+2017-07-24T19:52:48: Analyzing "distutils"
+2017-07-24T19:52:48: Analyzing "encodings.aliases"
+2017-07-24T19:52:48: Analyzing "encodings.ascii"
+2017-07-24T19:52:48: Analyzing "encodings.base64_codec"
+2017-07-24T19:52:48: Analyzing "encodings.big5"
+2017-07-24T19:52:48: Analyzing "encodings.big5hkscs"
+2017-07-24T19:52:48: Analyzing "encodings.bz2_codec"
+2017-07-24T19:52:48: Analyzing "encodings.charmap"
+2017-07-24T19:52:48: Analyzing "encodings.cp037"
+2017-07-24T19:52:48: Analyzing "encodings.cp1006"
+2017-07-24T19:52:48: Analyzing "encodings.cp1026"
+2017-07-24T19:52:48: Analyzing "encodings.cp1140"
+2017-07-24T19:52:48: Analyzing "encodings.cp1250"
+2017-07-24T19:52:48: Analyzing "encodings.cp1251"
+2017-07-24T19:52:48: Analyzing "encodings.cp1252"
+2017-07-24T19:52:48: Analyzing "encodings.cp1253"
+2017-07-24T19:52:48: Analyzing "encodings.cp1254"
+2017-07-24T19:52:48: Analyzing "encodings.cp1255"
+2017-07-24T19:52:48: Analyzing "encodings.cp1256"
+2017-07-24T19:52:48: Analyzing "encodings.cp1257"
+2017-07-24T19:52:48: Analyzing "encodings.cp1258"
+2017-07-24T19:52:48: Analyzing "encodings.cp424"
+2017-07-24T19:52:48: Analyzing "encodings.cp437"
+2017-07-24T19:52:48: Analyzing "encodings.cp500"
+2017-07-24T19:52:48: Analyzing "encodings.cp720"
+2017-07-24T19:52:48: Analyzing "encodings.cp737"
+2017-07-24T19:52:48: Analyzing "encodings.cp775"
+2017-07-24T19:52:48: Analyzing "encodings.cp850"
+2017-07-24T19:52:48: Analyzing "encodings.cp852"
+2017-07-24T19:52:48: Analyzing "encodings.cp855"
+2017-07-24T19:52:48: Analyzing "encodings.cp856"
+2017-07-24T19:52:48: Analyzing "encodings.cp857"
+2017-07-24T19:52:48: Analyzing "encodings.cp858"
+2017-07-24T19:52:48: Analyzing "encodings.cp860"
+2017-07-24T19:52:48: Analyzing "encodings.cp861"
+2017-07-24T19:52:48: Analyzing "encodings.cp862"
+2017-07-24T19:52:48: Analyzing "encodings.cp863"
+2017-07-24T19:52:48: Analyzing "encodings.cp864"
+2017-07-24T19:52:48: Analyzing "encodings.cp865"
+2017-07-24T19:52:48: Analyzing "encodings.cp866"
+2017-07-24T19:52:48: Analyzing "encodings.cp869"
+2017-07-24T19:52:48: Analyzing "encodings.cp874"
+2017-07-24T19:52:48: Analyzing "encodings.cp875"
+2017-07-24T19:52:48: Analyzing "encodings.cp932"
+2017-07-24T19:52:48: Analyzing "encodings.cp949"
+2017-07-24T19:52:48: Analyzing "encodings.cp950"
+2017-07-24T19:52:48: Analyzing "encodings.euc_jisx0213"
+2017-07-24T19:52:48: Analyzing "encodings.euc_jis_2004"
+2017-07-24T19:52:48: Analyzing "encodings.euc_jp"
+2017-07-24T19:52:48: Analyzing "encodings.euc_kr"
+2017-07-24T19:52:48: Analyzing "encodings.gb18030"
+2017-07-24T19:52:48: Analyzing "encodings.gb2312"
+2017-07-24T19:52:48: Analyzing "encodings.gbk"
+2017-07-24T19:52:48: Analyzing "encodings.hex_codec"
+2017-07-24T19:52:48: Analyzing "encodings.hp_roman8"
+2017-07-24T19:52:48: Analyzing "encodings.hz"
+2017-07-24T19:52:48: Analyzing "encodings.idna"
+2017-07-24T19:52:48: Analyzing "encodings.iso2022_jp"
+2017-07-24T19:52:48: Analyzing "encodings.iso2022_jp_1"
+2017-07-24T19:52:48: Analyzing "encodings.iso2022_jp_2"
+2017-07-24T19:52:48: Analyzing "encodings.iso2022_jp_2004"
+2017-07-24T19:52:48: Analyzing "encodings.iso2022_jp_3"
+2017-07-24T19:52:48: Analyzing "encodings.iso2022_jp_ext"
+2017-07-24T19:52:48: Analyzing "encodings.iso2022_kr"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_1"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_10"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_11"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_13"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_14"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_15"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_16"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_2"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_3"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_4"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_5"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_6"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_7"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_8"
+2017-07-24T19:52:48: Analyzing "encodings.iso8859_9"
+2017-07-24T19:52:48: Analyzing "encodings.johab"
+2017-07-24T19:52:48: Analyzing "encodings.koi8_r"
+2017-07-24T19:52:48: Analyzing "encodings.koi8_u"
+2017-07-24T19:52:48: Analyzing "encodings.latin_1"
+2017-07-24T19:52:48: Analyzing "encodings.mac_arabic"
+2017-07-24T19:52:48: Analyzing "encodings.mac_centeuro"
+2017-07-24T19:52:48: Analyzing "encodings.mac_croatian"
+2017-07-24T19:52:48: Analyzing "encodings.mac_cyrillic"
+2017-07-24T19:52:48: Analyzing "encodings.mac_farsi"
+2017-07-24T19:52:48: Analyzing "encodings.mac_greek"
+2017-07-24T19:52:48: Analyzing "encodings.mac_iceland"
+2017-07-24T19:52:48: Analyzing "encodings.mac_latin2"
+2017-07-24T19:52:48: Analyzing "encodings.mac_roman"
+2017-07-24T19:52:48: Analyzing "encodings.mac_romanian"
+2017-07-24T19:52:48: Analyzing "encodings.mac_turkish"
+2017-07-24T19:52:48: Analyzing "encodings.mbcs"
+2017-07-24T19:52:48: Analyzing "encodings.palmos"
+2017-07-24T19:52:48: Analyzing "encodings.ptcp154"
+2017-07-24T19:52:48: Analyzing "encodings.punycode"
+2017-07-24T19:52:48: Analyzing "encodings.quopri_codec"
+2017-07-24T19:52:48: Analyzing "encodings.raw_unicode_escape"
+2017-07-24T19:52:48: Analyzing "encodings.rot_13"
+2017-07-24T19:52:48: Analyzing "encodings.shift_jis"
+2017-07-24T19:52:48: Analyzing "encodings.shift_jisx0213"
+2017-07-24T19:52:48: Analyzing "encodings.shift_jis_2004"
+2017-07-24T19:52:48: Analyzing "encodings.string_escape"
+2017-07-24T19:52:48: Analyzing "encodings.tis_620"
+2017-07-24T19:52:48: Analyzing "encodings.undefined"
+2017-07-24T19:52:48: Analyzing "encodings.unicode_escape"
+2017-07-24T19:52:48: Analyzing "encodings.unicode_internal"
+2017-07-24T19:52:48: Analyzing "encodings.utf_16"
+2017-07-24T19:52:48: Analyzing "encodings.utf_16_be"
+2017-07-24T19:52:48: Analyzing "encodings.utf_16_le"
+2017-07-24T19:52:48: Analyzing "encodings.utf_32"
+2017-07-24T19:52:48: Analyzing "encodings.utf_32_be"
+2017-07-24T19:52:48: Analyzing "encodings.utf_32_le"
+2017-07-24T19:52:48: Analyzing "encodings.utf_7"
+2017-07-24T19:52:48: Analyzing "encodings.utf_8"
+2017-07-24T19:52:48: Analyzing "encodings.utf_8_sig"
+2017-07-24T19:52:48: Analyzing "encodings.uu_codec"
+2017-07-24T19:52:48: Analyzing "encodings.zlib_codec"
+2017-07-24T19:52:48: Analyzing "encodings"
+2017-07-24T19:52:48: Starting analysis of 143 modules
+2017-07-24T19:52:49: Analysis complete
+2017-07-24T19:52:49: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib"
+2017-07-24T19:52:51: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib"
+2017-07-24T19:52:51: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages" with 2 files
+2017-07-24T19:52:53: Parsing "bottle" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\bottle.py")
+2017-07-24T19:52:53: Parsing "easy_install" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\easy_install.py")
+2017-07-24T19:52:53: Parsing complete
+2017-07-24T19:52:53: Analyzing "bottle"
+2017-07-24T19:52:53: Analyzing "easy_install"
+2017-07-24T19:52:53: Starting analysis of 2 modules
+2017-07-24T19:52:54: Analysis complete
+2017-07-24T19:52:54: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages"
+2017-07-24T19:52:54: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages"
+2017-07-24T19:52:54: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip" with 241 files
+2017-07-24T19:52:56: Parsing "pip.basecommand" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\basecommand.py")
+2017-07-24T19:52:56: Parsing "pip.baseparser" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\baseparser.py")
+2017-07-24T19:52:56: Parsing "pip.cmdoptions" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\cmdoptions.py")
+2017-07-24T19:52:56: Parsing "pip.download" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\download.py")
+2017-07-24T19:52:56: Parsing "pip.exceptions" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\exceptions.py")
+2017-07-24T19:52:56: Parsing "pip.index" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\index.py")
+2017-07-24T19:52:56: Parsing "pip.locations" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\locations.py")
+2017-07-24T19:52:56: Parsing "pip.pep425tags" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\pep425tags.py")
+2017-07-24T19:52:56: Parsing "pip.status_codes" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\status_codes.py")
+2017-07-24T19:52:56: Parsing "pip.wheel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\wheel.py")
+2017-07-24T19:52:56: Parsing "pip" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\__init__.py")
+2017-07-24T19:52:56: Parsing "pip.__main__" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\__main__.py")
+2017-07-24T19:52:56: Parsing "pip.commands.check" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\check.py")
+2017-07-24T19:52:56: Parsing "pip.commands.completion" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\completion.py")
+2017-07-24T19:52:56: Parsing "pip.commands.download" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\download.py")
+2017-07-24T19:52:56: Parsing "pip.commands.freeze" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\freeze.py")
+2017-07-24T19:52:56: Parsing "pip.commands.hash" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\hash.py")
+2017-07-24T19:52:56: Parsing "pip.commands.help" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\help.py")
+2017-07-24T19:52:56: Parsing "pip.commands.install" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\install.py")
+2017-07-24T19:52:56: Parsing "pip.commands.list" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\list.py")
+2017-07-24T19:52:56: Parsing "pip.commands.search" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\search.py")
+2017-07-24T19:52:56: Parsing "pip.commands.show" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\show.py")
+2017-07-24T19:52:56: Parsing "pip.commands.uninstall" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\uninstall.py")
+2017-07-24T19:52:56: Parsing "pip.commands.wheel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\wheel.py")
+2017-07-24T19:52:56: Parsing "pip.commands" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\commands\__init__.py")
+2017-07-24T19:52:56: Parsing "pip.compat.dictconfig" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\compat\dictconfig.py")
+2017-07-24T19:52:56: Parsing "pip.compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\compat\__init__.py")
+2017-07-24T19:52:56: Parsing "pip.models.index" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\models\index.py")
+2017-07-24T19:52:56: Parsing "pip.models" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\models\__init__.py")
+2017-07-24T19:52:56: Parsing "pip.operations.check" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\operations\check.py")
+2017-07-24T19:52:56: Parsing "pip.operations.freeze" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\operations\freeze.py")
+2017-07-24T19:52:56: Parsing "pip.operations" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\operations\__init__.py")
+2017-07-24T19:52:56: Parsing "pip.req.req_file" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\req\req_file.py")
+2017-07-24T19:52:56: Parsing "pip.req.req_install" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\req\req_install.py")
+2017-07-24T19:52:56: Parsing "pip.req.req_set" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\req\req_set.py")
+2017-07-24T19:52:56: Parsing "pip.req.req_uninstall" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\req\req_uninstall.py")
+2017-07-24T19:52:56: Parsing "pip.req" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\req\__init__.py")
+2017-07-24T19:52:56: Parsing "pip.utils.appdirs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\appdirs.py")
+2017-07-24T19:52:56: Parsing "pip.utils.build" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\build.py")
+2017-07-24T19:52:56: Parsing "pip.utils.deprecation" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\deprecation.py")
+2017-07-24T19:52:56: Parsing "pip.utils.encoding" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\encoding.py")
+2017-07-24T19:52:56: Parsing "pip.utils.filesystem" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\filesystem.py")
+2017-07-24T19:52:56: Parsing "pip.utils.glibc" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\glibc.py")
+2017-07-24T19:52:56: Parsing "pip.utils.hashes" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\hashes.py")
+2017-07-24T19:52:56: Parsing "pip.utils.logging" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\logging.py")
+2017-07-24T19:52:56: Parsing "pip.utils.outdated" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\outdated.py")
+2017-07-24T19:52:56: Parsing "pip.utils.packaging" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\packaging.py")
+2017-07-24T19:52:56: Parsing "pip.utils.setuptools_build" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\setuptools_build.py")
+2017-07-24T19:52:56: Parsing "pip.utils.ui" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\ui.py")
+2017-07-24T19:52:56: Parsing "pip.utils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\utils\__init__.py")
+2017-07-24T19:52:56: Parsing "pip.vcs.bazaar" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\vcs\bazaar.py")
+2017-07-24T19:52:56: Parsing "pip.vcs.git" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\vcs\git.py")
+2017-07-24T19:52:56: Parsing "pip.vcs.mercurial" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\vcs\mercurial.py")
+2017-07-24T19:52:56: Parsing "pip.vcs.subversion" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\vcs\subversion.py")
+2017-07-24T19:52:56: Parsing "pip.vcs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\vcs\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.appdirs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\appdirs.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distro" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distro.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.ipaddress" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.ordereddict" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\ordereddict.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.pyparsing" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\pyparsing.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.retrying" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\retrying.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.six" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\six.py")
+2017-07-24T19:52:56: Parsing "pip._vendor" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.adapter" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.cache" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.controller" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.filewrapper" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.heuristics" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.serialize" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.wrapper" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol._cmd" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.cachecontrol.caches" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.colorama.ansi" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.colorama.ansitowin32" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.colorama.initialise" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.colorama.win32" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.colorama.winterm" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.colorama" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.database" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.index" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.locators" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.manifest" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.markers" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.metadata" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.resources" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.scripts" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.util" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.version" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib.wheel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib._backport.misc" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib._backport.shutil" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib._backport.sysconfig" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib._backport.tarfile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.distlib._backport" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.constants" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.html5parser" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.serializer" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib._ihatexml" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib._inputstream" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib._tokenizer" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib._utils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.filters.base" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.filters.lint" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.filters.optionaltags" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.filters.sanitizer" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.filters.whitespace" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.filters" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treeadapters.sax" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treeadapters" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treebuilders.base" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treebuilders.dom" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treebuilders.etree" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treebuilders" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treewalkers.base" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treewalkers.dom" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treewalkers.etree" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib.treewalkers" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib._trie.datrie" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib._trie.py" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib._trie._base" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.html5lib._trie" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.lockfile.linklockfile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.lockfile.mkdirlockfile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.lockfile.pidlockfile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.lockfile.sqlitelockfile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.lockfile.symlinklockfile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.lockfile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging.markers" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging.requirements" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging.specifiers" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging.utils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging.version" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging._compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging._structures" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging.__about__" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.packaging" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.pkg_resources" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.progress.bar" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.progress.counter" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.progress.helpers" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.progress.spinner" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.progress" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.adapters" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.api" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.auth" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.certs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.cookies" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.exceptions" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.hooks" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.models" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.sessions" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.status_codes" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.structures" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.utils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.constants" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.escprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.escsm" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.chardet" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.connection" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.fields" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.request" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.response" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3._collections" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.contrib.socks" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\socks.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.packages" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.requests.packages.urllib3.util" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.webencodings.labels" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.webencodings.mklabels" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.webencodings.tests" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.webencodings.x_user_defined" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2017-07-24T19:52:56: Parsing "pip._vendor.webencodings" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2017-07-24T19:52:56: Parsing complete
+2017-07-24T19:52:56: Analyzing "pip.basecommand"
+2017-07-24T19:52:56: Analyzing "pip.baseparser"
+2017-07-24T19:52:56: Analyzing "pip.cmdoptions"
+2017-07-24T19:52:56: Analyzing "pip.download"
+2017-07-24T19:52:56: Analyzing "pip.exceptions"
+2017-07-24T19:52:56: Analyzing "pip.index"
+2017-07-24T19:52:56: Analyzing "pip.locations"
+2017-07-24T19:52:56: Analyzing "pip.pep425tags"
+2017-07-24T19:52:56: Analyzing "pip.status_codes"
+2017-07-24T19:52:56: Analyzing "pip.wheel"
+2017-07-24T19:52:56: Analyzing "pip"
+2017-07-24T19:52:56: Analyzing "pip.__main__"
+2017-07-24T19:52:56: Analyzing "pip.commands.check"
+2017-07-24T19:52:56: Analyzing "pip.commands.completion"
+2017-07-24T19:52:56: Analyzing "pip.commands.download"
+2017-07-24T19:52:56: Analyzing "pip.commands.freeze"
+2017-07-24T19:52:56: Analyzing "pip.commands.hash"
+2017-07-24T19:52:56: Analyzing "pip.commands.help"
+2017-07-24T19:52:56: Analyzing "pip.commands.install"
+2017-07-24T19:52:56: Analyzing "pip.commands.list"
+2017-07-24T19:52:56: Analyzing "pip.commands.search"
+2017-07-24T19:52:56: Analyzing "pip.commands.show"
+2017-07-24T19:52:56: Analyzing "pip.commands.uninstall"
+2017-07-24T19:52:56: Analyzing "pip.commands.wheel"
+2017-07-24T19:52:56: Analyzing "pip.commands"
+2017-07-24T19:52:56: Analyzing "pip.compat.dictconfig"
+2017-07-24T19:52:56: Analyzing "pip.compat"
+2017-07-24T19:52:56: Analyzing "pip.models.index"
+2017-07-24T19:52:56: Analyzing "pip.models"
+2017-07-24T19:52:56: Analyzing "pip.operations.check"
+2017-07-24T19:52:56: Analyzing "pip.operations.freeze"
+2017-07-24T19:52:56: Analyzing "pip.operations"
+2017-07-24T19:52:56: Analyzing "pip.req.req_file"
+2017-07-24T19:52:56: Analyzing "pip.req.req_install"
+2017-07-24T19:52:56: Analyzing "pip.req.req_set"
+2017-07-24T19:52:56: Analyzing "pip.req.req_uninstall"
+2017-07-24T19:52:56: Analyzing "pip.req"
+2017-07-24T19:52:56: Analyzing "pip.utils.appdirs"
+2017-07-24T19:52:56: Analyzing "pip.utils.build"
+2017-07-24T19:52:56: Analyzing "pip.utils.deprecation"
+2017-07-24T19:52:56: Analyzing "pip.utils.encoding"
+2017-07-24T19:52:56: Analyzing "pip.utils.filesystem"
+2017-07-24T19:52:56: Analyzing "pip.utils.glibc"
+2017-07-24T19:52:56: Analyzing "pip.utils.hashes"
+2017-07-24T19:52:56: Analyzing "pip.utils.logging"
+2017-07-24T19:52:56: Analyzing "pip.utils.outdated"
+2017-07-24T19:52:56: Analyzing "pip.utils.packaging"
+2017-07-24T19:52:56: Analyzing "pip.utils.setuptools_build"
+2017-07-24T19:52:56: Analyzing "pip.utils.ui"
+2017-07-24T19:52:56: Analyzing "pip.utils"
+2017-07-24T19:52:56: Analyzing "pip.vcs.bazaar"
+2017-07-24T19:52:56: Analyzing "pip.vcs.git"
+2017-07-24T19:52:56: Analyzing "pip.vcs.mercurial"
+2017-07-24T19:52:56: Analyzing "pip.vcs.subversion"
+2017-07-24T19:52:56: Analyzing "pip.vcs"
+2017-07-24T19:52:56: Analyzing "pip._vendor.appdirs"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distro"
+2017-07-24T19:52:56: Analyzing "pip._vendor.ipaddress"
+2017-07-24T19:52:56: Analyzing "pip._vendor.ordereddict"
+2017-07-24T19:52:56: Analyzing "pip._vendor.pyparsing"
+2017-07-24T19:52:56: Analyzing "pip._vendor.retrying"
+2017-07-24T19:52:56: Analyzing "pip._vendor.six"
+2017-07-24T19:52:56: Analyzing "pip._vendor"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.cache"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.compat"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.controller"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol._cmd"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-07-24T19:52:56: Analyzing "pip._vendor.cachecontrol.caches"
+2017-07-24T19:52:56: Analyzing "pip._vendor.colorama.ansi"
+2017-07-24T19:52:56: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-07-24T19:52:56: Analyzing "pip._vendor.colorama.initialise"
+2017-07-24T19:52:56: Analyzing "pip._vendor.colorama.win32"
+2017-07-24T19:52:56: Analyzing "pip._vendor.colorama.winterm"
+2017-07-24T19:52:56: Analyzing "pip._vendor.colorama"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.compat"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.database"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.index"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.locators"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.manifest"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.markers"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.metadata"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.resources"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.scripts"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.util"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.version"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib.wheel"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib._backport.misc"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-07-24T19:52:56: Analyzing "pip._vendor.distlib._backport"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.constants"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.html5parser"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.serializer"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib._ihatexml"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib._inputstream"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib._tokenizer"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib._utils"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.filters.base"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.filters"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib._trie.datrie"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib._trie.py"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib._trie._base"
+2017-07-24T19:52:56: Analyzing "pip._vendor.html5lib._trie"
+2017-07-24T19:52:56: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-07-24T19:52:56: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-07-24T19:52:56: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-07-24T19:52:56: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-07-24T19:52:56: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-07-24T19:52:56: Analyzing "pip._vendor.lockfile"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging.markers"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging.requirements"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging.specifiers"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging.utils"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging.version"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging._compat"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging._structures"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging.__about__"
+2017-07-24T19:52:56: Analyzing "pip._vendor.packaging"
+2017-07-24T19:52:56: Analyzing "pip._vendor.pkg_resources"
+2017-07-24T19:52:56: Analyzing "pip._vendor.progress.bar"
+2017-07-24T19:52:56: Analyzing "pip._vendor.progress.counter"
+2017-07-24T19:52:56: Analyzing "pip._vendor.progress.helpers"
+2017-07-24T19:52:56: Analyzing "pip._vendor.progress.spinner"
+2017-07-24T19:52:56: Analyzing "pip._vendor.progress"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.adapters"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.api"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.auth"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.certs"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.compat"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.cookies"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.exceptions"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.hooks"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.models"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.sessions"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.status_codes"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.structures"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.utils"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.chardet"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.contrib.socks"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2017-07-24T19:52:56: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-07-24T19:52:56: Analyzing "pip._vendor.webencodings.labels"
+2017-07-24T19:52:56: Analyzing "pip._vendor.webencodings.mklabels"
+2017-07-24T19:52:56: Analyzing "pip._vendor.webencodings.tests"
+2017-07-24T19:52:56: Analyzing "pip._vendor.webencodings.x_user_defined"
+2017-07-24T19:52:56: Analyzing "pip._vendor.webencodings"
+2017-07-24T19:52:56: Starting analysis of 241 modules
+2017-07-24T19:53:03: Analysis complete
+2017-07-24T19:53:03: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip"
+2017-07-24T19:53:07: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pip"
+2017-07-24T19:53:07: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources" with 16 files
+2017-07-24T19:53:09: Parsing "pkg_resources.py31compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\py31compat.py")
+2017-07-24T19:53:09: Parsing "pkg_resources" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\__init__.py")
+2017-07-24T19:53:09: Parsing "pkg_resources.extern" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\extern\__init__.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.appdirs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.pyparsing" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.six" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\six.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging.markers" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging.requirements" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging.specifiers" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging.utils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging.version" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging._compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging._structures" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging.__about__" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2017-07-24T19:53:09: Parsing "pkg_resources._vendor.packaging" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2017-07-24T19:53:09: Parsing complete
+2017-07-24T19:53:09: Analyzing "pkg_resources.py31compat"
+2017-07-24T19:53:09: Analyzing "pkg_resources"
+2017-07-24T19:53:09: Analyzing "pkg_resources.extern"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.appdirs"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.pyparsing"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.six"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging.markers"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging.requirements"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging.utils"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging.version"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging._compat"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging._structures"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging.__about__"
+2017-07-24T19:53:09: Analyzing "pkg_resources._vendor.packaging"
+2017-07-24T19:53:09: Starting analysis of 16 modules
+2017-07-24T19:53:10: Analysis complete
+2017-07-24T19:53:10: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources"
+2017-07-24T19:53:11: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\pkg_resources"
+2017-07-24T19:53:11: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools" with 49 files
+2017-07-24T19:53:12: Parsing "setuptools.archive_util" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\archive_util.py")
+2017-07-24T19:53:12: Parsing "setuptools.config" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\config.py")
+2017-07-24T19:53:12: Parsing "setuptools.depends" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\depends.py")
+2017-07-24T19:53:12: Parsing "setuptools.dep_util" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\dep_util.py")
+2017-07-24T19:53:12: Parsing "setuptools.dist" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\dist.py")
+2017-07-24T19:53:12: Parsing "setuptools.extension" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\extension.py")
+2017-07-24T19:53:12: Parsing "setuptools.glob" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\glob.py")
+2017-07-24T19:53:12: Parsing "setuptools.launch" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\launch.py")
+2017-07-24T19:53:12: Parsing "setuptools.lib2to3_ex" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-07-24T19:53:12: Parsing "setuptools.monkey" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\monkey.py")
+2017-07-24T19:53:12: Parsing "setuptools.msvc" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\msvc.py")
+2017-07-24T19:53:12: Parsing "setuptools.namespaces" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\namespaces.py")
+2017-07-24T19:53:12: Parsing "setuptools.package_index" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\package_index.py")
+2017-07-24T19:53:12: Parsing "setuptools.py26compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\py26compat.py")
+2017-07-24T19:53:12: Parsing "setuptools.py27compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\py27compat.py")
+2017-07-24T19:53:12: Parsing "setuptools.py31compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\py31compat.py")
+2017-07-24T19:53:12: Parsing "setuptools.py33compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\py33compat.py")
+2017-07-24T19:53:12: Parsing "setuptools.py36compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\py36compat.py")
+2017-07-24T19:53:12: Parsing "setuptools.sandbox" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\sandbox.py")
+2017-07-24T19:53:12: Parsing "setuptools.ssl_support" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\ssl_support.py")
+2017-07-24T19:53:12: Parsing "setuptools.unicode_utils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\unicode_utils.py")
+2017-07-24T19:53:12: Parsing "setuptools.version" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\version.py")
+2017-07-24T19:53:12: Parsing "setuptools.windows_support" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\windows_support.py")
+2017-07-24T19:53:12: Parsing "setuptools" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\__init__.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.alias" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\alias.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.bdist_egg" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.bdist_rpm" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.bdist_wininst" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.build_clib" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\build_clib.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.build_ext" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\build_ext.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.build_py" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\build_py.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.develop" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\develop.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.easy_install" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\easy_install.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.egg_info" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\egg_info.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.install" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\install.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.install_egg_info" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.install_lib" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\install_lib.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.install_scripts" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.py36compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\py36compat.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.register" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\register.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.rotate" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\rotate.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.saveopts" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\saveopts.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.sdist" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\sdist.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.setopt" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\setopt.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.test" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\test.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.upload" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\upload.py")
+2017-07-24T19:53:12: Parsing "setuptools.command.upload_docs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-07-24T19:53:12: Parsing "setuptools.command" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\command\__init__.py")
+2017-07-24T19:53:12: Parsing "setuptools.extern" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools\extern\__init__.py")
+2017-07-24T19:53:12: Parsing complete
+2017-07-24T19:53:12: Analyzing "setuptools.archive_util"
+2017-07-24T19:53:12: Analyzing "setuptools.config"
+2017-07-24T19:53:12: Analyzing "setuptools.depends"
+2017-07-24T19:53:12: Analyzing "setuptools.dep_util"
+2017-07-24T19:53:12: Analyzing "setuptools.dist"
+2017-07-24T19:53:12: Analyzing "setuptools.extension"
+2017-07-24T19:53:12: Analyzing "setuptools.glob"
+2017-07-24T19:53:12: Analyzing "setuptools.launch"
+2017-07-24T19:53:12: Analyzing "setuptools.lib2to3_ex"
+2017-07-24T19:53:12: Analyzing "setuptools.monkey"
+2017-07-24T19:53:12: Analyzing "setuptools.msvc"
+2017-07-24T19:53:12: Analyzing "setuptools.namespaces"
+2017-07-24T19:53:12: Analyzing "setuptools.package_index"
+2017-07-24T19:53:12: Analyzing "setuptools.py26compat"
+2017-07-24T19:53:12: Analyzing "setuptools.py27compat"
+2017-07-24T19:53:12: Analyzing "setuptools.py31compat"
+2017-07-24T19:53:12: Analyzing "setuptools.py33compat"
+2017-07-24T19:53:12: Analyzing "setuptools.py36compat"
+2017-07-24T19:53:12: Analyzing "setuptools.sandbox"
+2017-07-24T19:53:12: Analyzing "setuptools.ssl_support"
+2017-07-24T19:53:12: Analyzing "setuptools.unicode_utils"
+2017-07-24T19:53:12: Analyzing "setuptools.version"
+2017-07-24T19:53:12: Analyzing "setuptools.windows_support"
+2017-07-24T19:53:12: Analyzing "setuptools"
+2017-07-24T19:53:12: Analyzing "setuptools.command.alias"
+2017-07-24T19:53:12: Analyzing "setuptools.command.bdist_egg"
+2017-07-24T19:53:12: Analyzing "setuptools.command.bdist_rpm"
+2017-07-24T19:53:12: Analyzing "setuptools.command.bdist_wininst"
+2017-07-24T19:53:12: Analyzing "setuptools.command.build_clib"
+2017-07-24T19:53:12: Analyzing "setuptools.command.build_ext"
+2017-07-24T19:53:12: Analyzing "setuptools.command.build_py"
+2017-07-24T19:53:12: Analyzing "setuptools.command.develop"
+2017-07-24T19:53:12: Analyzing "setuptools.command.easy_install"
+2017-07-24T19:53:12: Analyzing "setuptools.command.egg_info"
+2017-07-24T19:53:12: Analyzing "setuptools.command.install"
+2017-07-24T19:53:12: Analyzing "setuptools.command.install_egg_info"
+2017-07-24T19:53:12: Analyzing "setuptools.command.install_lib"
+2017-07-24T19:53:12: Analyzing "setuptools.command.install_scripts"
+2017-07-24T19:53:12: Analyzing "setuptools.command.py36compat"
+2017-07-24T19:53:12: Analyzing "setuptools.command.register"
+2017-07-24T19:53:12: Analyzing "setuptools.command.rotate"
+2017-07-24T19:53:12: Analyzing "setuptools.command.saveopts"
+2017-07-24T19:53:12: Analyzing "setuptools.command.sdist"
+2017-07-24T19:53:12: Analyzing "setuptools.command.setopt"
+2017-07-24T19:53:12: Analyzing "setuptools.command.test"
+2017-07-24T19:53:12: Analyzing "setuptools.command.upload"
+2017-07-24T19:53:12: Analyzing "setuptools.command.upload_docs"
+2017-07-24T19:53:12: Analyzing "setuptools.command"
+2017-07-24T19:53:12: Analyzing "setuptools.extern"
+2017-07-24T19:53:12: Starting analysis of 49 modules
+2017-07-24T19:53:14: Analysis complete
+2017-07-24T19:53:14: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools"
+2017-07-24T19:53:14: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\setuptools"
+2017-07-24T19:53:14: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel" with 29 files
+2017-07-24T19:53:16: Parsing "wheel.archive" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\archive.py")
+2017-07-24T19:53:16: Parsing "wheel.bdist_wheel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\bdist_wheel.py")
+2017-07-24T19:53:16: Parsing "wheel.decorator" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\decorator.py")
+2017-07-24T19:53:16: Parsing "wheel.egg2wheel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\egg2wheel.py")
+2017-07-24T19:53:16: Parsing "wheel.install" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\install.py")
+2017-07-24T19:53:16: Parsing "wheel.metadata" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\metadata.py")
+2017-07-24T19:53:16: Parsing "wheel.paths" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\paths.py")
+2017-07-24T19:53:16: Parsing "wheel.pep425tags" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\pep425tags.py")
+2017-07-24T19:53:16: Parsing "wheel.pkginfo" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\pkginfo.py")
+2017-07-24T19:53:16: Parsing "wheel.util" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\util.py")
+2017-07-24T19:53:16: Parsing "wheel.wininst2wheel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\wininst2wheel.py")
+2017-07-24T19:53:16: Parsing "wheel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\__init__.py")
+2017-07-24T19:53:16: Parsing "wheel.__main__" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\__main__.py")
+2017-07-24T19:53:16: Parsing "wheel.signatures.djbec" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\signatures\djbec.py")
+2017-07-24T19:53:16: Parsing "wheel.signatures.ed25519py" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\signatures\ed25519py.py")
+2017-07-24T19:53:16: Parsing "wheel.signatures.keys" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\signatures\keys.py")
+2017-07-24T19:53:16: Parsing "wheel.signatures" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\signatures\__init__.py")
+2017-07-24T19:53:16: Parsing "wheel.test.conftest" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\conftest.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_basic" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_basic.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_install" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_install.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_keys" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_keys.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_paths" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_paths.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_ranking" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_ranking.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_signatures" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_signatures.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_tagopt" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_tagopt.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_tool" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_tool.py")
+2017-07-24T19:53:16: Parsing "wheel.test.test_wheelfile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\test_wheelfile.py")
+2017-07-24T19:53:16: Parsing "wheel.test" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\test\__init__.py")
+2017-07-24T19:53:16: Parsing "wheel.tool" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel\tool\__init__.py")
+2017-07-24T19:53:16: Parsing complete
+2017-07-24T19:53:16: Analyzing "wheel.archive"
+2017-07-24T19:53:16: Analyzing "wheel.bdist_wheel"
+2017-07-24T19:53:16: Analyzing "wheel.decorator"
+2017-07-24T19:53:16: Analyzing "wheel.egg2wheel"
+2017-07-24T19:53:16: Analyzing "wheel.install"
+2017-07-24T19:53:16: Analyzing "wheel.metadata"
+2017-07-24T19:53:16: Analyzing "wheel.paths"
+2017-07-24T19:53:16: Analyzing "wheel.pep425tags"
+2017-07-24T19:53:16: Analyzing "wheel.pkginfo"
+2017-07-24T19:53:16: Analyzing "wheel.util"
+2017-07-24T19:53:16: Analyzing "wheel.wininst2wheel"
+2017-07-24T19:53:16: Analyzing "wheel"
+2017-07-24T19:53:16: Analyzing "wheel.__main__"
+2017-07-24T19:53:16: Analyzing "wheel.signatures.djbec"
+2017-07-24T19:53:16: Analyzing "wheel.signatures.ed25519py"
+2017-07-24T19:53:16: Analyzing "wheel.signatures.keys"
+2017-07-24T19:53:16: Analyzing "wheel.signatures"
+2017-07-24T19:53:16: Analyzing "wheel.test.conftest"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_basic"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_install"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_keys"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_paths"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_ranking"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_signatures"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_tagopt"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_tool"
+2017-07-24T19:53:16: Analyzing "wheel.test.test_wheelfile"
+2017-07-24T19:53:16: Analyzing "wheel.test"
+2017-07-24T19:53:16: Analyzing "wheel.tool"
+2017-07-24T19:53:16: Starting analysis of 29 modules
+2017-07-24T19:53:17: Analysis complete
+2017-07-24T19:53:17: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel"
+2017-07-24T19:53:17: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\wheel"
+2017-07-24T19:53:17: Deleting 0 files
+
+2017-07-25T11:11:27: Start analysis
+2017-07-25T11:11:27: [WARNING] Library was set explicitly - skipping path detection
+2017-07-25T11:11:27: IncludeModulesFromModulePath = win32com
+2017-07-25T11:11:28: Deleting 0 files
+
+2017-07-25T15:21:01: Start analysis
+2017-07-25T15:21:01: [WARNING] Library was set explicitly - skipping path detection
+2017-07-25T15:21:01: IncludeModulesFromModulePath = win32com
+2017-07-25T15:21:02: Deleting 0 files
+2017-07-25T15:21:02: astropy.CallDepth = 0
+2017-07-25T15:21:02: matplotlib.CallDepth = 3
+2017-07-25T15:21:02: pandas.CallDepth = 0
+2017-07-25T15:21:02: sympy.CallDepth = 0
+2017-07-25T15:21:02: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\certifi" with 3 files
+2017-07-25T15:21:13: Parsing "certifi.core" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\certifi\core.py")
+2017-07-25T15:21:13: Parsing "certifi" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\certifi\__init__.py")
+2017-07-25T15:21:13: Parsing "certifi.__main__" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\certifi\__main__.py")
+2017-07-25T15:21:13: Parsing complete
+2017-07-25T15:21:13: Analyzing "certifi.core"
+2017-07-25T15:21:13: Analyzing "certifi"
+2017-07-25T15:21:13: Analyzing "certifi.__main__"
+2017-07-25T15:21:13: Starting analysis of 3 modules
+2017-07-25T15:21:14: Analysis complete
+2017-07-25T15:21:14: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\certifi"
+2017-07-25T15:21:14: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\certifi"
+2017-07-25T15:21:14: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet" with 41 files
+2017-07-25T15:21:15: Parsing "chardet.big5freq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\big5freq.py")
+2017-07-25T15:21:15: Parsing "chardet.big5prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\big5prober.py")
+2017-07-25T15:21:15: Parsing "chardet.chardistribution" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\chardistribution.py")
+2017-07-25T15:21:15: Parsing "chardet.charsetgroupprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\charsetgroupprober.py")
+2017-07-25T15:21:15: Parsing "chardet.charsetprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\charsetprober.py")
+2017-07-25T15:21:16: Parsing "chardet.codingstatemachine" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\codingstatemachine.py")
+2017-07-25T15:21:16: Parsing "chardet.compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\compat.py")
+2017-07-25T15:21:16: Parsing "chardet.cp949prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\cp949prober.py")
+2017-07-25T15:21:16: Parsing "chardet.enums" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\enums.py")
+2017-07-25T15:21:16: Parsing "chardet.escprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\escprober.py")
+2017-07-25T15:21:16: Parsing "chardet.escsm" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\escsm.py")
+2017-07-25T15:21:16: Parsing "chardet.eucjpprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\eucjpprober.py")
+2017-07-25T15:21:16: Parsing "chardet.euckrfreq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\euckrfreq.py")
+2017-07-25T15:21:16: Parsing "chardet.euckrprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\euckrprober.py")
+2017-07-25T15:21:16: Parsing "chardet.euctwfreq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\euctwfreq.py")
+2017-07-25T15:21:16: Parsing "chardet.euctwprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\euctwprober.py")
+2017-07-25T15:21:16: Parsing "chardet.gb2312freq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\gb2312freq.py")
+2017-07-25T15:21:16: Parsing "chardet.gb2312prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\gb2312prober.py")
+2017-07-25T15:21:16: Parsing "chardet.hebrewprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\hebrewprober.py")
+2017-07-25T15:21:16: Parsing "chardet.jisfreq" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\jisfreq.py")
+2017-07-25T15:21:16: Parsing "chardet.jpcntx" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\jpcntx.py")
+2017-07-25T15:21:16: Parsing "chardet.langbulgarianmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\langbulgarianmodel.py")
+2017-07-25T15:21:16: Parsing "chardet.langcyrillicmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\langcyrillicmodel.py")
+2017-07-25T15:21:16: Parsing "chardet.langgreekmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\langgreekmodel.py")
+2017-07-25T15:21:16: Parsing "chardet.langhebrewmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\langhebrewmodel.py")
+2017-07-25T15:21:16: Parsing "chardet.langhungarianmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\langhungarianmodel.py")
+2017-07-25T15:21:16: Parsing "chardet.langthaimodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\langthaimodel.py")
+2017-07-25T15:21:16: Parsing "chardet.langturkishmodel" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\langturkishmodel.py")
+2017-07-25T15:21:16: Parsing "chardet.latin1prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\latin1prober.py")
+2017-07-25T15:21:16: Parsing "chardet.mbcharsetprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\mbcharsetprober.py")
+2017-07-25T15:21:16: Parsing "chardet.mbcsgroupprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\mbcsgroupprober.py")
+2017-07-25T15:21:16: Parsing "chardet.mbcssm" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\mbcssm.py")
+2017-07-25T15:21:16: Parsing "chardet.sbcharsetprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\sbcharsetprober.py")
+2017-07-25T15:21:16: Parsing "chardet.sbcsgroupprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\sbcsgroupprober.py")
+2017-07-25T15:21:16: Parsing "chardet.sjisprober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\sjisprober.py")
+2017-07-25T15:21:16: Parsing "chardet.universaldetector" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\universaldetector.py")
+2017-07-25T15:21:16: Parsing "chardet.utf8prober" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\utf8prober.py")
+2017-07-25T15:21:16: Parsing "chardet.version" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\version.py")
+2017-07-25T15:21:16: Parsing "chardet" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\__init__.py")
+2017-07-25T15:21:16: Parsing "chardet.cli.chardetect" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\cli\chardetect.py")
+2017-07-25T15:21:16: Parsing "chardet.cli" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet\cli\__init__.py")
+2017-07-25T15:21:16: Parsing complete
+2017-07-25T15:21:16: Analyzing "chardet.big5freq"
+2017-07-25T15:21:16: Analyzing "chardet.big5prober"
+2017-07-25T15:21:16: Analyzing "chardet.chardistribution"
+2017-07-25T15:21:16: Analyzing "chardet.charsetgroupprober"
+2017-07-25T15:21:16: Analyzing "chardet.charsetprober"
+2017-07-25T15:21:16: Analyzing "chardet.codingstatemachine"
+2017-07-25T15:21:16: Analyzing "chardet.compat"
+2017-07-25T15:21:16: Analyzing "chardet.cp949prober"
+2017-07-25T15:21:16: Analyzing "chardet.enums"
+2017-07-25T15:21:16: Analyzing "chardet.escprober"
+2017-07-25T15:21:16: Analyzing "chardet.escsm"
+2017-07-25T15:21:16: Analyzing "chardet.eucjpprober"
+2017-07-25T15:21:16: Analyzing "chardet.euckrfreq"
+2017-07-25T15:21:16: Analyzing "chardet.euckrprober"
+2017-07-25T15:21:16: Analyzing "chardet.euctwfreq"
+2017-07-25T15:21:16: Analyzing "chardet.euctwprober"
+2017-07-25T15:21:16: Analyzing "chardet.gb2312freq"
+2017-07-25T15:21:16: Analyzing "chardet.gb2312prober"
+2017-07-25T15:21:16: Analyzing "chardet.hebrewprober"
+2017-07-25T15:21:16: Analyzing "chardet.jisfreq"
+2017-07-25T15:21:16: Analyzing "chardet.jpcntx"
+2017-07-25T15:21:16: Analyzing "chardet.langbulgarianmodel"
+2017-07-25T15:21:16: Analyzing "chardet.langcyrillicmodel"
+2017-07-25T15:21:16: Analyzing "chardet.langgreekmodel"
+2017-07-25T15:21:16: Analyzing "chardet.langhebrewmodel"
+2017-07-25T15:21:16: Analyzing "chardet.langhungarianmodel"
+2017-07-25T15:21:16: Analyzing "chardet.langthaimodel"
+2017-07-25T15:21:16: Analyzing "chardet.langturkishmodel"
+2017-07-25T15:21:16: Analyzing "chardet.latin1prober"
+2017-07-25T15:21:16: Analyzing "chardet.mbcharsetprober"
+2017-07-25T15:21:16: Analyzing "chardet.mbcsgroupprober"
+2017-07-25T15:21:16: Analyzing "chardet.mbcssm"
+2017-07-25T15:21:16: Analyzing "chardet.sbcharsetprober"
+2017-07-25T15:21:16: Analyzing "chardet.sbcsgroupprober"
+2017-07-25T15:21:16: Analyzing "chardet.sjisprober"
+2017-07-25T15:21:16: Analyzing "chardet.universaldetector"
+2017-07-25T15:21:16: Analyzing "chardet.utf8prober"
+2017-07-25T15:21:16: Analyzing "chardet.version"
+2017-07-25T15:21:16: Analyzing "chardet"
+2017-07-25T15:21:16: Analyzing "chardet.cli.chardetect"
+2017-07-25T15:21:16: Analyzing "chardet.cli"
+2017-07-25T15:21:16: Starting analysis of 41 modules
+2017-07-25T15:21:16: Analysis complete
+2017-07-25T15:21:16: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet"
+2017-07-25T15:21:17: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\chardet"
+2017-07-25T15:21:17: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna" with 7 files
+2017-07-25T15:21:19: Parsing "idna.codec" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna\codec.py")
+2017-07-25T15:21:19: Parsing "idna.compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna\compat.py")
+2017-07-25T15:21:19: Parsing "idna.core" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna\core.py")
+2017-07-25T15:21:19: Parsing "idna.idnadata" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna\idnadata.py")
+2017-07-25T15:21:19: Parsing "idna.intranges" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna\intranges.py")
+2017-07-25T15:21:19: Parsing "idna.uts46data" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna\uts46data.py")
+2017-07-25T15:21:19: Parsing "idna" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna\__init__.py")
+2017-07-25T15:21:19: Parsing complete
+2017-07-25T15:21:19: Analyzing "idna.codec"
+2017-07-25T15:21:19: Analyzing "idna.compat"
+2017-07-25T15:21:19: Analyzing "idna.core"
+2017-07-25T15:21:19: Analyzing "idna.idnadata"
+2017-07-25T15:21:19: Analyzing "idna.intranges"
+2017-07-25T15:21:19: Analyzing "idna.uts46data"
+2017-07-25T15:21:19: Analyzing "idna"
+2017-07-25T15:21:19: Starting analysis of 7 modules
+2017-07-25T15:25:53: Analysis complete
+2017-07-25T15:25:53: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna"
+2017-07-25T15:25:53: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\idna"
+2017-07-25T15:25:53: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests" with 18 files
+2017-07-25T15:25:55: Parsing "requests.adapters" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\adapters.py")
+2017-07-25T15:25:55: Parsing "requests.api" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\api.py")
+2017-07-25T15:25:55: Parsing "requests.auth" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\auth.py")
+2017-07-25T15:25:55: Parsing "requests.certs" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\certs.py")
+2017-07-25T15:25:55: Parsing "requests.compat" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\compat.py")
+2017-07-25T15:25:55: Parsing "requests.cookies" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\cookies.py")
+2017-07-25T15:25:55: Parsing "requests.exceptions" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\exceptions.py")
+2017-07-25T15:25:55: Parsing "requests.help" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\help.py")
+2017-07-25T15:25:55: Parsing "requests.hooks" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\hooks.py")
+2017-07-25T15:25:55: Parsing "requests.models" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\models.py")
+2017-07-25T15:25:55: Parsing "requests.packages" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\packages.py")
+2017-07-25T15:25:55: Parsing "requests.sessions" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\sessions.py")
+2017-07-25T15:25:55: Parsing "requests.status_codes" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\status_codes.py")
+2017-07-25T15:25:55: Parsing "requests.structures" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\structures.py")
+2017-07-25T15:25:55: Parsing "requests.utils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\utils.py")
+2017-07-25T15:25:55: Parsing "requests._internal_utils" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\_internal_utils.py")
+2017-07-25T15:25:55: Parsing "requests" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\__init__.py")
+2017-07-25T15:25:55: Parsing "requests.__version__" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests\__version__.py")
+2017-07-25T15:25:55: Parsing complete
+2017-07-25T15:25:55: Analyzing "requests.adapters"
+2017-07-25T15:25:55: Analyzing "requests.api"
+2017-07-25T15:25:55: Analyzing "requests.auth"
+2017-07-25T15:25:55: Analyzing "requests.certs"
+2017-07-25T15:25:55: Analyzing "requests.compat"
+2017-07-25T15:25:55: Analyzing "requests.cookies"
+2017-07-25T15:25:55: Analyzing "requests.exceptions"
+2017-07-25T15:25:55: Analyzing "requests.help"
+2017-07-25T15:25:55: Analyzing "requests.hooks"
+2017-07-25T15:25:55: Analyzing "requests.models"
+2017-07-25T15:25:55: Analyzing "requests.packages"
+2017-07-25T15:25:55: Analyzing "requests.sessions"
+2017-07-25T15:25:55: Analyzing "requests.status_codes"
+2017-07-25T15:25:55: Analyzing "requests.structures"
+2017-07-25T15:25:55: Analyzing "requests.utils"
+2017-07-25T15:25:55: Analyzing "requests._internal_utils"
+2017-07-25T15:25:55: Analyzing "requests"
+2017-07-25T15:25:55: Analyzing "requests.__version__"
+2017-07-25T15:25:55: Starting analysis of 18 modules
+2017-07-25T15:25:56: Analysis complete
+2017-07-25T15:25:56: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests"
+2017-07-25T15:25:56: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\requests"
+2017-07-25T15:25:56: Start group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3" with 36 files
+2017-07-25T15:25:58: Parsing "urllib3.connection" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\connection.py")
+2017-07-25T15:25:58: Parsing "urllib3.connectionpool" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\connectionpool.py")
+2017-07-25T15:25:58: Parsing "urllib3.exceptions" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\exceptions.py")
+2017-07-25T15:25:58: Parsing "urllib3.fields" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\fields.py")
+2017-07-25T15:25:58: Parsing "urllib3.filepost" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\filepost.py")
+2017-07-25T15:25:58: Parsing "urllib3.poolmanager" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\poolmanager.py")
+2017-07-25T15:25:58: Parsing "urllib3.request" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\request.py")
+2017-07-25T15:25:58: Parsing "urllib3.response" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\response.py")
+2017-07-25T15:25:58: Parsing "urllib3._collections" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\_collections.py")
+2017-07-25T15:25:58: Parsing "urllib3" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\__init__.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib.appengine" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\appengine.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib.ntlmpool" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\ntlmpool.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib.pyopenssl" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\pyopenssl.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib.securetransport" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\securetransport.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib.socks" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\socks.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\__init__.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib._securetransport.bindings" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\_securetransport\bindings.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib._securetransport.low_level" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\_securetransport\low_level.py")
+2017-07-25T15:25:58: Parsing "urllib3.contrib._securetransport" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\contrib\_securetransport\__init__.py")
+2017-07-25T15:25:58: Parsing "urllib3.packages.ordered_dict" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\packages\ordered_dict.py")
+2017-07-25T15:25:58: Parsing "urllib3.packages.six" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\packages\six.py")
+2017-07-25T15:25:58: Parsing "urllib3.packages" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\packages\__init__.py")
+2017-07-25T15:25:58: Parsing "urllib3.packages.backports.makefile" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\packages\backports\makefile.py")
+2017-07-25T15:25:58: Parsing "urllib3.packages.backports" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\packages\backports\__init__.py")
+2017-07-25T15:25:58: Parsing "urllib3.packages.ssl_match_hostname._implementation" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-07-25T15:25:58: Parsing "urllib3.packages.ssl_match_hostname" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.connection" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\connection.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.request" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\request.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.response" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\response.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.retry" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\retry.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.selectors" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\selectors.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.ssl_" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\ssl_.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.timeout" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\timeout.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.url" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\url.py")
+2017-07-25T15:25:58: Parsing "urllib3.util.wait" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\wait.py")
+2017-07-25T15:25:58: Parsing "urllib3.util" ("D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3\util\__init__.py")
+2017-07-25T15:25:58: Parsing complete
+2017-07-25T15:25:58: Analyzing "urllib3.connection"
+2017-07-25T15:25:58: Analyzing "urllib3.connectionpool"
+2017-07-25T15:25:58: Analyzing "urllib3.exceptions"
+2017-07-25T15:25:58: Analyzing "urllib3.fields"
+2017-07-25T15:25:58: Analyzing "urllib3.filepost"
+2017-07-25T15:25:58: Analyzing "urllib3.poolmanager"
+2017-07-25T15:25:58: Analyzing "urllib3.request"
+2017-07-25T15:25:58: Analyzing "urllib3.response"
+2017-07-25T15:25:58: Analyzing "urllib3._collections"
+2017-07-25T15:25:58: Analyzing "urllib3"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib.appengine"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib.ntlmpool"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib.pyopenssl"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib.securetransport"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib.socks"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib._securetransport.bindings"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib._securetransport.low_level"
+2017-07-25T15:25:58: Analyzing "urllib3.contrib._securetransport"
+2017-07-25T15:25:58: Analyzing "urllib3.packages.ordered_dict"
+2017-07-25T15:25:58: Analyzing "urllib3.packages.six"
+2017-07-25T15:25:58: Analyzing "urllib3.packages"
+2017-07-25T15:25:58: Analyzing "urllib3.packages.backports.makefile"
+2017-07-25T15:25:58: Analyzing "urllib3.packages.backports"
+2017-07-25T15:25:58: Analyzing "urllib3.packages.ssl_match_hostname._implementation"
+2017-07-25T15:25:58: Analyzing "urllib3.packages.ssl_match_hostname"
+2017-07-25T15:25:58: Analyzing "urllib3.util.connection"
+2017-07-25T15:25:58: Analyzing "urllib3.util.request"
+2017-07-25T15:25:58: Analyzing "urllib3.util.response"
+2017-07-25T15:25:58: Analyzing "urllib3.util.retry"
+2017-07-25T15:25:58: Analyzing "urllib3.util.selectors"
+2017-07-25T15:25:58: Analyzing "urllib3.util.ssl_"
+2017-07-25T15:25:58: Analyzing "urllib3.util.timeout"
+2017-07-25T15:25:58: Analyzing "urllib3.util.url"
+2017-07-25T15:25:58: Analyzing "urllib3.util.wait"
+2017-07-25T15:25:58: Analyzing "urllib3.util"
+2017-07-25T15:25:58: Starting analysis of 36 modules
+2017-07-25T15:25:59: Analysis complete
+2017-07-25T15:25:59: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3"
+2017-07-25T15:26:00: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3"
+2017-07-25T15:26:00: Deleting 0 files
