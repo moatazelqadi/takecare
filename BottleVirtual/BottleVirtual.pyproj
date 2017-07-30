@@ -45,8 +45,6 @@
     <Folder Include="views\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bottleTemplate - Web Deploy.pubxml" />
-    <None Include="bottleTemplate - FTP.pubxml" />
     <Content Include="requirements.txt" />
     <Content Include="static\content\bootstrap.css" />
     <Content Include="static\content\bootstrap.min.css" />
@@ -71,8 +69,6 @@
     <Content Include="static\scripts\respond.js" />
     <Content Include="static\scripts\respond.min.js" />
     <Content Include="static\scripts\_references.js" />
-    <None Include="TakeCareHack - Web Deploy.pubxml" />
-    <None Include="TakeCareHack - FTP.pubxml" />
     <Content Include="views\map.tpl" />
     <Content Include="views\about.tpl" />
     <Content Include="views\contact.tpl" />
