@@ -1,29 +1,33 @@
 % rebase('layout.tpl', title='Home Page', year=year)
 
 <div class="jumbotron">
-    <h1>My Bottle</h1>
-    <p class="lead">Bottle is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="http://bottlepy.org/docs/dev/index.html" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+    <h1>Take Care!</h1>
+    <p class="lead"><em>Take Care!</em> helps you get to your distenation safely. Get your driving directions on the familiar Google maps interface, and let us check for you the driving route hazards!</p>
+    <p><a href="/map" class="btn btn-primary btn-large">Let's go&raquo;</a></p>
 </div>
 
 <div class="row">
-    <div class="col-md-4">
-        <h2>Getting started</h2>
+    <div class="col-md-3">
+        <h2>Road Closures</h2>
         <p>
-            Bottle gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            Vicroads Real-time road closure data are checked along the driving route. If a road is closed, you can take care!
         </p>
-        <p><a class="btn btn-default" href="http://bottlepy.org/docs/dev/index.html">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="http://api.vicroads.vic.gov.au">Check Source &raquo;</a></p>
     </div>
-    <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>The Python Package Index is a repository of software for the Python programming language.</p>
-        <p><a class="btn btn-default" href="https://pypi.python.org/pypi">Learn more &raquo;</a></p>
+	<div class="col-md-3">
+        <h2>Emergency</h2>
+        <p>Fallen trees? Fire? Other emergencies? We'll check Emergency Victoria for you. so you can take care!</p>
+        <p><a class="btn btn-default" href="http://www.emergency.vic.gov.au/respond/">Check Source &raquo;</a></p>
     </div>
-    <div class="col-md-4">
-        <h2>Microsoft Azure</h2>
-        <p>You can easily publish to Microsoft Azure using Python Tools for Visual Studio. Find out how you can host your application using a free trial today.</p>
-        <p><a class="btn btn-default" href="http://azure.microsoft.com">Learn more &raquo;</a></p>
+    <div class="col-md-3">
+        <h2>Crash hotspots</h2>
+        <p>We'll tell you if your driving route is passing through a crash hotspot, so you can take care!</p>
+        <p><a class="btn btn-default" href="https://www.data.vic.gov.au/data/dataset/crashes-last-five-years">Check Source &raquo;</a></p>
     </div>
+    <div class="col-md-3">
+        <h2>Weather</h2>
+        <p>Australian Bureau of Meteorology forecasts are checked along the route. If the weather is not favourable, take care!</p>
+        <p><a class="btn btn-default" href="http://govhack.bom.gov.au/">Check Source &raquo;</a></p>
+    </div>
+	
 </div>

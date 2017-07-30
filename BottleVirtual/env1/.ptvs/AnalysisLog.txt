@@ -1304,3 +1304,199 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2017-07-25T15:25:59: Saving group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3"
 2017-07-25T15:26:00: End of group "D:\Projects\testAzure\BottleVirtual\env1\Lib\site-packages\urllib3"
 2017-07-25T15:26:00: Deleting 0 files
+
+2017-07-29T08:13:10: Start analysis
+2017-07-29T08:13:10: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T08:13:10: IncludeModulesFromModulePath = win32com
+
+2017-07-29T08:32:43: Start analysis
+2017-07-29T08:32:43: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T08:32:43: IncludeModulesFromModulePath = win32com
+
+2017-07-29T08:38:01: Start analysis
+2017-07-29T08:38:01: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T08:38:01: IncludeModulesFromModulePath = win32com
+
+2017-07-29T08:45:44: Start analysis
+2017-07-29T08:45:45: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T08:45:45: IncludeModulesFromModulePath = win32com
+
+2017-07-29T10:55:27: Start analysis
+2017-07-29T10:55:27: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T10:55:27: IncludeModulesFromModulePath = win32com
+
+2017-07-29T11:50:44: Start analysis
+2017-07-29T11:50:44: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T11:50:44: IncludeModulesFromModulePath = win32com
+
+2017-07-29T12:03:48: Start analysis
+2017-07-29T12:03:48: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T12:03:48: IncludeModulesFromModulePath = win32com
+
+2017-07-29T12:09:12: Start analysis
+2017-07-29T12:09:12: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T12:09:12: IncludeModulesFromModulePath = win32com
+
+2017-07-29T12:20:25: Start analysis
+2017-07-29T12:20:25: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T12:20:25: IncludeModulesFromModulePath = win32com
+
+2017-07-29T14:05:10: Start analysis
+2017-07-29T14:05:10: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T14:05:10: IncludeModulesFromModulePath = win32com
+
+2017-07-29T14:15:55: Start analysis
+2017-07-29T14:15:55: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T14:15:55: IncludeModulesFromModulePath = win32com
+
+2017-07-29T14:18:55: Start analysis
+2017-07-29T14:18:55: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T14:18:55: IncludeModulesFromModulePath = win32com
+
+2017-07-29T14:38:17: Start analysis
+2017-07-29T14:38:17: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T14:38:17: IncludeModulesFromModulePath = win32com
+
+2017-07-29T14:43:46: Start analysis
+2017-07-29T14:43:46: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T14:43:46: IncludeModulesFromModulePath = win32com
+
+2017-07-29T14:55:54: Start analysis
+2017-07-29T14:55:55: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T14:55:55: IncludeModulesFromModulePath = win32com
+
+2017-07-29T15:03:40: Start analysis
+2017-07-29T15:03:40: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T15:03:40: IncludeModulesFromModulePath = win32com
+
+2017-07-29T15:04:37: Start analysis
+2017-07-29T15:04:37: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T15:04:37: IncludeModulesFromModulePath = win32com
+
+2017-07-29T15:05:08: Start analysis
+2017-07-29T15:05:08: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T15:05:08: IncludeModulesFromModulePath = win32com
+
+2017-07-29T15:38:27: Start analysis
+2017-07-29T15:38:27: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T15:38:27: IncludeModulesFromModulePath = win32com
+
+2017-07-29T20:42:19: Start analysis
+2017-07-29T20:42:19: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T20:42:19: IncludeModulesFromModulePath = win32com
+
+2017-07-29T20:45:32: Start analysis
+2017-07-29T20:45:32: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T20:45:32: IncludeModulesFromModulePath = win32com
+
+2017-07-29T20:48:40: Start analysis
+2017-07-29T20:48:40: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T20:48:40: IncludeModulesFromModulePath = win32com
+
+2017-07-29T20:49:32: Start analysis
+2017-07-29T20:49:32: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T20:49:32: IncludeModulesFromModulePath = win32com
+
+2017-07-29T20:55:32: Start analysis
+2017-07-29T20:55:32: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T20:55:32: IncludeModulesFromModulePath = win32com
+
+2017-07-29T20:56:14: Start analysis
+2017-07-29T20:56:15: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T20:56:15: IncludeModulesFromModulePath = win32com
+
+2017-07-29T20:57:32: Start analysis
+2017-07-29T20:57:32: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T20:57:32: IncludeModulesFromModulePath = win32com
+
+2017-07-29T20:59:35: Start analysis
+2017-07-29T20:59:35: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T20:59:35: IncludeModulesFromModulePath = win32com
+
+2017-07-29T21:00:31: Start analysis
+2017-07-29T21:00:31: [WARNING] Library was set explicitly - skipping path detection
+2017-07-29T21:00:31: IncludeModulesFromModulePath = win32com
+
+2017-07-30T07:57:50: Start analysis
+2017-07-30T07:57:50: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T07:57:50: IncludeModulesFromModulePath = win32com
+
+2017-07-30T07:59:33: Start analysis
+2017-07-30T07:59:33: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T07:59:33: IncludeModulesFromModulePath = win32com
+
+2017-07-30T08:00:45: Start analysis
+2017-07-30T08:00:45: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T08:00:45: IncludeModulesFromModulePath = win32com
+
+2017-07-30T08:03:56: Start analysis
+2017-07-30T08:03:56: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T08:03:56: IncludeModulesFromModulePath = win32com
+
+2017-07-30T08:24:39: Start analysis
+2017-07-30T08:24:39: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T08:24:39: IncludeModulesFromModulePath = win32com
+
+2017-07-30T08:33:51: Start analysis
+2017-07-30T08:33:51: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T08:33:51: IncludeModulesFromModulePath = win32com
+
+2017-07-30T08:37:56: Start analysis
+2017-07-30T08:37:56: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T08:37:56: IncludeModulesFromModulePath = win32com
+
+2017-07-30T09:01:22: Start analysis
+2017-07-30T09:01:22: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T09:01:22: IncludeModulesFromModulePath = win32com
+
+2017-07-30T09:16:45: Start analysis
+2017-07-30T09:16:46: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T09:16:46: IncludeModulesFromModulePath = win32com
+
+2017-07-30T09:20:46: Start analysis
+2017-07-30T09:20:46: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T09:20:46: IncludeModulesFromModulePath = win32com
+
+2017-07-30T09:31:22: Start analysis
+2017-07-30T09:31:22: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T09:31:22: IncludeModulesFromModulePath = win32com
+
+2017-07-30T11:07:10: Start analysis
+2017-07-30T11:07:10: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T11:07:10: IncludeModulesFromModulePath = win32com
+
+2017-07-30T12:28:33: Start analysis
+2017-07-30T12:28:33: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T12:28:33: IncludeModulesFromModulePath = win32com
+
+2017-07-30T12:31:16: Start analysis
+2017-07-30T12:31:16: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T12:31:16: IncludeModulesFromModulePath = win32com
+
+2017-07-30T12:32:04: Start analysis
+2017-07-30T12:32:04: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T12:32:04: IncludeModulesFromModulePath = win32com
+
+2017-07-30T12:33:15: Start analysis
+2017-07-30T12:33:15: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T12:33:15: IncludeModulesFromModulePath = win32com
+
+2017-07-30T12:34:51: Start analysis
+2017-07-30T12:34:51: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T12:34:51: IncludeModulesFromModulePath = win32com
+
+2017-07-30T13:49:48: Start analysis
+2017-07-30T13:49:48: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T13:49:48: IncludeModulesFromModulePath = win32com
+
+2017-07-30T14:23:17: Start analysis
+2017-07-30T14:23:17: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T14:23:17: IncludeModulesFromModulePath = win32com
+
+2017-07-30T14:26:35: Start analysis
+2017-07-30T14:26:35: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T14:26:35: IncludeModulesFromModulePath = win32com
+
+2017-07-30T14:28:34: Start analysis
+2017-07-30T14:28:34: [WARNING] Library was set explicitly - skipping path detection
+2017-07-30T14:28:34: IncludeModulesFromModulePath = win32com

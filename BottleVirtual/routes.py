@@ -2,7 +2,7 @@
 Routes and views for the bottle application.
 """
 
-from bottle import route, view
+from bottle import route, view, run, request
 from datetime import datetime
 
 @route('/')
@@ -20,7 +20,7 @@ def contact():
     """Renders the contact page."""
     return dict(
         title='Contact',
-        message='Your contact page.',
+        message='',
         year=datetime.now().year
     )
 
@@ -34,7 +34,28 @@ def about():
         year=datetime.now().year
     )
 
+@route('/map')
+@view('map')
+def about():
+    """Renders the map page."""
+    return dict(
+        title='Drive Safely!',
+        message='Drive Safely!',
+        year=datetime.now().year
+    )
 @route('/api/<mapRoute>')
 def server_api(mapRoute):
     import RouteChecker
-    return RouteChecker.check(mapRoute)
+    return RouteChecker.checkMapRoute(mapRoute)
+
+@route('/apipost', method = 'POST')
+def server_apipost():
+    mapRoute = request.forms.get("mapRoute")
+    import RouteChecker
+    return RouteChecker.checkMapRoute(mapRoute)
+
+@route('/api2', method = 'POST')
+def server_api2():
+    pointList = request.forms.get("pointList")
+    import RouteChecker
+    return RouteChecker.checkPointList(pointList)

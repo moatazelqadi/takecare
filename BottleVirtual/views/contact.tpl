@@ -3,14 +3,9 @@
 <h2>{{ title }}.</h2>
 <h3>{{ message }}</h3>
 
-<address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
-</address>
+<p>Application created by Moataz Mahmoud for GovHack2017</p>
 
 <address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    <a>First.Last@monash.edu</a><br />
+    
 </address>
