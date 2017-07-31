@@ -2,7 +2,8 @@ key = ''
 vicRoadsToken = ''
 import requests as req
 ## This function code is from https://github.com/openeventdatabase/backend/blob/master/polyline.py
-## Function name changed due to an apparent conflict in the project.
+## Source: https://github.com/mgd722/decode-google-maps-polyline/blob/master/polyline_decoder.py
+## Function name changed here due to an apparent conflict.
 def polylineDecoder(polyline_str):
     index, lat, lng = 0, 0, 0
     coordinates = []
