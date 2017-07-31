@@ -70,7 +70,7 @@ def checkVicRoads(lineString):
         return ""
     else:
        return result['features'][0]['geometry']['coordinates'],result['features'][0]['properties']['comms_comment']
-   #currently 1000 m
+   #currently 100 m
 def checkEmergency(pointList):
     esriPath = [[point[1],point[0]] for point in pointList] # [[x,y],[x,y]]
     polylineGeometry = '{"paths":['+str(esriPath)+'], "spatialReference" : {"wkid" : 4326}}'
